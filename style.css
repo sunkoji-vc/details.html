@@ -1,0 +1,62 @@
+/*--section titles--*/
+h2 {
+    color:rgb(12, 12, 12);
+    padding: 8px 15px;
+    background:rgb(245, 242, 242);
+}
+/*--section boxes--*/
+section {
+    margin-bottom: 30px;
+    padding: 15px 15px;
+    background-color: rgba(236, 203, 153, 0.99);
+    border-radius: 5px;
+    border-left: 7px solid  rgb(255, 255, 255);
+}
+/*-- font for objective section--*/
+.objective p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ /*-- font for education section--*/
+.education p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*--fonts for lists--*/
+.skill ul,
+.interns ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;  
+}
+/*-- font for project section--*/
+.projects p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*-- font for project section--*/
+.declaration p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*--section color customize--*/
+.objective {
+    background-color:rgba(254, 195, 113, 0.752);
+    border-left-color:rgba(255, 164, 37, 0.773);
+} 
+.education
+{
+    background-color:rgba(255, 195, 195, 0.384);
+    border-left-color:rgba(255, 128, 128, 0.389);
+}
+.skill{
+    background-color:rgb(206, 255, 197);
+    border-left-color:rgb(136, 255, 115);
+}
+.interns{
+    background-color:rgb(255, 197, 197);
+    border-left-color:rgb(255, 115, 115);
+}
+.projects{
+    background-color:rgba(197, 224, 255, 0.355);
+    border-left-color:rgba(115, 178, 255, 0.353);
+}
+.declaration {
+    background-color:rgba(242, 255, 126, 0.579);
+    border-left-color:rgba(229, 255, 29, 0.578);
+}
